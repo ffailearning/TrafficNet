@@ -90,11 +90,11 @@ TrafficNet-YOLOv8/
 
 # 📌 注意事项
 
-* 模型结构已经通过 yaml 配置无缝嵌入原 YOLOv8 框架，确保兼容原始训练和部署流程。
+* 模型结构已经通过 yaml 配置无缝嵌入原 Ultralytics 框架，确保兼容原始训练和部署流程。
 * 如果你在使用时遇到任何问题，欢迎提 issue 或 fork 后贡献代码。
 
 ---
 
 # ✨ 致谢
 
-本项目基于 Ultralytics YOLOv8 构建，感谢其优秀的开源贡献：[https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+本项目基于 Ultralytics 构建，感谢其优秀的开源贡献：[https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
